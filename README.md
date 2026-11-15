@@ -11,3 +11,6 @@ Use the repository root on the main branch for GitHub Pages (Settings → Pages 
 - Photographs and medal images come from the existing ZIP. No stock images.
 - Original finisher PDF replaces the earlier screenshot; the clean PNG preview is rendered from that PDF.
 - Other historical results are omitted pending supporting records. Fit at 50 is a future goal.
+
+## Border Ultra 100 km 2025
+The supplied official finisher certificate records 100 km in 15:45:51, overall rank 306, male rank 257, event dates 6–7 December 2025. Bib 100205 is visible on the supplied bib and photographs. The Border chapter uses selected supplied event photos with near-duplicates omitted. Image resizing and WebP compression preserve the original frames and existing photographer watermarks.
